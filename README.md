@@ -1,7 +1,6 @@
 # tl1_tp1_2023-slackku
 Desarrollo de las actividades planteadas para en el Trabajo Practico N° 1 de Taller de Lenguajes 1
-## Respuestas
-### **Punto 2**  
+## **Punto 2.2**  
 **¿Qué es '.gitignore'?** 
 
 Es un archivo que le brinda informacion a Git, sobre que archivos ignorar.
@@ -57,13 +56,16 @@ El archivo `ignorado.txt` existe y se encuentra en nuestra carpeta raiz y `.giti
 echo ignorado.txt >> .gitignore
 ```
 Con ese comando ya abremos creado `.gitignore` y habremos ingresado la regla de ignorar al archivo `ignorado.txt`
-### Punto 2.3
+## Punto 2.3
 
 En el repositorio se puede observar la carpeta `.vscode`, `tp1_1.exe`, `tp1_1.c`, `.gitignore`, `README.md`. 
 
 De estos, tanto `tp1_1.exe` como la carpeta `.vscode` no deberian estar.
 
-### Apartado g)
+## Apartado g
 Los resultados obtenidos en el `apartado 3, punto 2 y 3` de este trabajo practico son iguales, puesto a que los punteros, son variables que almacenan la dirección de memoria. Por ende, al asignarle al puntero la dirección de memoria de la variable, tanto el contenido del puntero como la dirección de memoria de la variable son lo mismo.
 
 Esta misma dista de lo solicitado en el `apartado e, punto 4` debido a que en este ultimo lo que se esta observando es la dirección en memoria donde el puntero esta almacenado.
+
+## Autor
+- José Ignacio Lorenzo - *Alumno* - [slackku](https://github.com/slackku)
