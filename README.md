@@ -1,7 +1,7 @@
 # tl1_tp1_2023-slackku
 Desarrollo de las actividades planteadas para en el Trabajo Practico N° 1 de Taller de Lenguajes 1
 ## Respuestas
-**Punto 2**  
+### **Punto 2**  
 **¿Qué es '.gitignore'?** 
 
 Es un archivo que le brinda informacion a Git, sobre que archivos ignorar.
@@ -57,3 +57,9 @@ El archivo `ignorado.txt` existe y se encuentra en nuestra carpeta raiz y `.giti
 echo ignorado.txt >> .gitignore
 ```
 Con ese comando ya abremos creado `.gitignore` y habremos ingresado la regla de ignorar al archivo `ignorado.txt`
+### Punto 2.3
+
+En el repositorio se puede observar la carpeta `.vscode`, `tp1_1.exe`, `tp1_1.c`, `.gitignore`, `README.md`. 
+
+De estos, tanto `tp1_1.exe` como la carpeta `.vscode` no deberian estar.
+
