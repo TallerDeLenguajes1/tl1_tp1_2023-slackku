@@ -63,3 +63,7 @@ En el repositorio se puede observar la carpeta `.vscode`, `tp1_1.exe`, `tp1_1.c`
 
 De estos, tanto `tp1_1.exe` como la carpeta `.vscode` no deberian estar.
 
+### Apartado g)
+Los resultados obtenidos en el `apartado 3, punto 2 y 3` de este trabajo practico son iguales, puesto a que los punteros, son variables que almacenan la dirección de memoria. Por ende, al asignarle al puntero la dirección de memoria de la variable, tanto el contenido del puntero como la dirección de memoria de la variable son lo mismo.
+
+Esta misma dista de lo solicitado en el `apartado e, punto 4` debido a que en este ultimo lo que se esta observando es la dirección en memoria donde el puntero esta almacenado.
